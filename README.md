@@ -41,5 +41,5 @@ Python3 autochangip.py</pre></div>
 # Change your SOCKS5 !
 
 <b>Firefox<b> 
-go to settings > general > (all down) network setting > manual proxy configuration > (socks host) 127.0.0.1 > (port) 9050 > socksv5 > proxy dns socksv5
+go to settings > general > (all down) network setting > manual proxy configuration > (socks host) 127.0.0.1 > (port) 9050 > (enable) socksv5 > (enable) proxy dns socksv5
 
