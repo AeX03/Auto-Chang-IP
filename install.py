@@ -5,7 +5,7 @@ if str(choice) =='Y' or str(choice)=='y':
 
     run('chmod 777 autochangip.py')
     run('mkdir /usr/share/aut')
-    run('cp autoTOR.py /usr/share/aut/autochangip.py')
+    run('cp autochangip.py /usr/share/aut/autochangip.py')
 
     cmnd=(' #! /bin/sh \n exec python3 /usr/share/aut/autochangip.py "$@"')
     with open('/usr/bin/aut','w')as file:
