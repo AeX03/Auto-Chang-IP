@@ -42,9 +42,12 @@ Python3 autochangip.py</pre></div>
 
 # Change your SOCKS5 !
 
-<b>Firefox<b> 
+<b>Firefox<b>
+<br>
 go to settings > general > (all down) network setting > manual proxy configuration > (socks host) 127.0.0.1 > (port) 9050 > (enable) socksv5 > (enable) proxy dns socksv5
 <br>
-<b>Chrome, Edge Etc...<b> 
+<br>
+<b>Chrome, Edge Etc...<b>
+<br>
 go to settings > (search bar and type "Proxy") > (select) Open your computer’s proxy settings > manual proxy configuration > (enable) Use a proxy server > (socks host "Address") 127.0.0.1 > (port) 9050 > (use a proxy server "write") *.local > (enable) don't use the proxy server for local
 
